@@ -1,0 +1,17 @@
+@relation newData
+
+@attribute attr1 numeric
+@attribute attr2 numeric
+@attribute attr3 numeric
+@attribute attr4 numeric
+@attribute attr5 numeric
+@attribute attr6 numeric
+@attribute label {buggy,clean}
+
+@data
+96,15,5,21,0,0,?
+207,22,3,69,0,20,?
+112,14,5,31,0,4,?
+313,14,24,17,0,1,?
+279,28,13,43,0,19,?
+28,3,3,3,0,0,?

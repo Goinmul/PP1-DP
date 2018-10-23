@@ -1,0 +1,6 @@
+1,C:\Users\user\git\MovieLens\src\main\java\edu\handong\csee\pp1\bigdata\movielens\ChartGenerator.java
+2,C:\Users\user\git\MovieLens\src\main\java\edu\handong\csee\pp1\bigdata\movielens\Main.java
+3,C:\Users\user\git\MovieLens\src\main\java\edu\handong\csee\pp1\bigdata\movielens\MovieData.java
+4,C:\Users\user\git\MovieLens\src\main\java\edu\handong\csee\pp1\bigdata\movielens\NumAvgDataset.java
+5,C:\Users\user\git\MovieLens\src\main\java\edu\handong\csee\pp1\bigdata\movielens\Recommender.java
+6,C:\Users\user\git\MovieLens\src\test\java\edu\handong\csee\pp1\bigdata\movielens\MainTest.java
