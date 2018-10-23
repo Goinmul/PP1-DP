@@ -69,12 +69,10 @@ public class CLAMITest {
 	public void testCLAMIWithApacheProjectToFindBestCutoffForPrecision() {
 		
 		// TASK5 TODO Use this method to find the best cutoff
-		
-		String bestCutoff = "50";
-		
-		String[] args = {"-f","data/Apache.arff","-l","isDefective","-p", "TRUE", "-m", "-c", bestCutoff};
-
+	
+		String[] args = {"-f","data/Apache.arff","-l","isDefective","-p", "TRUE", "-m", "-c", "42"};
 		CLAMI.main(args);
+
 	}
 	
 	@Test
@@ -82,10 +80,7 @@ public class CLAMITest {
 		
 		// TASK6 TODO Use this method to find the best cutoff for f-measure
 		
-		String bestCutoff = "50"; // median = 50, should change this value.
-		
-		String[] args = {"-f","data/Apache.arff","-l","isDefective","-p", "TRUE", "-m", "-c", bestCutoff};
-
+		String[] args = {"-f","data/Apache.arff","-l","isDefective","-p", "TRUE", "-m", "-c", "88"};
 		CLAMI.main(args);
 	}
 
